@@ -14,12 +14,10 @@
 * 音乐，音效和图片素材来源于网络
 
 ### 运行截图
-![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot_1.jpg)
-![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot_2.jpg)
-![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot_3.jpg)
-![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot_4.jpg)
-
-
+![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot1.jpg)
+![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot2.jpg)
+![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot3.jpg)
+![screen_shot_1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot4.jpg)
 
 
 
