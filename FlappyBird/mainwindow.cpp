@@ -358,7 +358,7 @@ void MainWindow::getScore()
 void MainWindow::displayInfo()
 {
     this->soundSwooshing->play();
-    QMessageBox::information(this,"About","Copyright (C) 2014 Moran");
+    QMessageBox::information(this,"About","默然 2014\ngithub.com/moranzcw/");
 }
 
 void MainWindow::setButtonVisible(bool _startBtn, bool _scoreBtn, bool _rateBtn)
