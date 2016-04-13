@@ -14,14 +14,14 @@
 * 音乐，音效和图片素材来源于网络
 
 ### 运行截图
+
+* 主画面和准备界面
 ![主画面](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot1.jpg)
-主画面
 ![准备](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot2.jpg)
-准备
+
+* 游戏和游戏结束
 ![游戏](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot3.jpg)
-游戏
 ![游戏结束](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/screen_shot4.jpg)
-游戏结束
 
 
 
