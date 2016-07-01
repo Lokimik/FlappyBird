@@ -17,10 +17,10 @@
 
 ####FlappyBird
 
-![主画面](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/FlappyBird1.jpg)
-![准备](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/FlappyBird2.jpg)
-![游戏](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/FlappyBird3.jpg)
-![游戏结束](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/FlappyBird4.jpg)
+![主画面](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/FlappyBird1.jpg)
+![准备](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/FlappyBird2.jpg)
+![游戏](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/FlappyBird3.jpg)
+![游戏结束](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/FlappyBird4.jpg)
 
 ####SuperHexagon
 ![主界面](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/SuperHexagon1.jpg)
