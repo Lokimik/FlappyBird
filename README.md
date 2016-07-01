@@ -23,13 +23,13 @@
 ![游戏结束](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/FlappyBird4.jpg)
 
 ####SuperHexagon
-![主界面](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon1.jpg)
-![难度1](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon2.jpg)
-![难度2](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon3.jpg)
-![选项](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon4.jpg)
-![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon5.jpg)
-![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon6.jpg)
+![主界面](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon1.JPG)
+![难度1](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon2.JPG)
+![难度2](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon3.JPG)
+![选项](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon4.JPG)
+![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon5.JPG)
+![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/SuperHexagon6.JPG)
 
 ####2048
-![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/2048.jpg)
+![游戏](https://github.com/moranzcw/QtGames/blob/master/ScreenShot/2048.JPG)
 
