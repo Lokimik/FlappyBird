@@ -23,7 +23,7 @@
 ![游戏结束](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/FlappyBird4.jpg)
 
 ####SuperHexagon
-![主界面](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/SuperHexagon1.jpg)
+![主界面](https://github.com/moranzcw/QtGames/tree/master/ScreenShot/SuperHexagon1.jpg)
 ![难度1](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/SuperHexagon2.jpg)
 ![难度2](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/SuperHexagon3.jpg)
 ![选项](https://github.com/moranzcw/FlappyBird/blob/master/ScreenShot/SuperHexagon4.jpg)
