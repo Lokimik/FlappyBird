@@ -2,6 +2,9 @@
 
 ### 简介
 一些使用 [Qt](https://www.qt.io/) 编写的小游戏。
+* [FlappyBird](https://github.com/moranzcw/QtGames/tree/master/FlappyBird)
+* [SuperHexgon](https://github.com/moranzcw/QtGames/tree/master/SuperHexagon)
+* [2048](https://github.com/moranzcw/QtGames/tree/master/2048)
 
 ### 环境
 * Qt 5.0 或更高
@@ -13,7 +16,7 @@
 * 采用Qt GUI 框架编写，未使用游戏引擎，只能作为GUI编程的参考，不能作为游戏开发教程
 * 音乐，音效和图片素材来源于网络
 
-### 运行截图
+### 游戏截图
 
 ####FlappyBird
 
